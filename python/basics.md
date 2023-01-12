@@ -1,16 +1,15 @@
-### Variables
+# Variables
 
 Declare variables like local variables in Ruby
+
 `name = "Alina"`
-​
+
 console.log in Python is `print(something)`
 ​
 
-### Data Types
+# Data Types
 
-​
-
-#### String
+## String
 
 Ex. 1
 `string = "my string"`
@@ -24,13 +23,13 @@ Ex. 2
 `"Hello " "world!"`
 ​
 
-### Integer
+## Integer
 
 Ex. 1
 `score = 100`
 ​
 
-### Boolean
+## Boolean
 
 In Python they start with capital letter
 
@@ -39,12 +38,12 @@ In Python they start with capital letter
 `not_facts = False`
 ​
 
-### None
+## None
 
 This is null/nil
 ​
 
-### List
+## List
 
 They work like array data type in other languages
 
@@ -68,7 +67,7 @@ size, color, disposition = cat
 
 ​
 
-### Tuples
+## Tuples
 
 Work like arrays but they are immutable. You define tuples with parenthesis
 
@@ -78,7 +77,7 @@ Work like arrays but they are immutable. You define tuples with parenthesis
 You cannot change anything in the above tuple. These are more memory efficient, but you cannot change them later!
 ​
 
-### Dictionaries
+## Dictionaries
 
 This is the Ruby Hash. The JavaScript Object.
 
@@ -89,7 +88,7 @@ user = {'email': 'michael@example.com', 'password': '11111111'}
 ​
 ​
 
-### Functions
+# Functions
 
 `def` keyword followed by the function name, parenthesis and a colon. Functions require `()` to be invoked, as in JavaScript and languages designed by sane people.
 ​
