@@ -12,12 +12,12 @@ To pass the code challenge, you must be able to demonstrate that you can add fun
 ## 2. Communicating with the server
 
 - retrieve items from a database with a fetch GET request and display them on the page (using the json-server node package)
-- access data according to RESTful principles (e.g. "/items" vs "/items/1")
+- access data according to RESTful principles (e.g. "/items")
 
 ## 3. Event Listeners
 
 - add event listeners that respond to user input and trigger changes in the DOM (such as adding a new element to the page)
-- create functional web forms to store (or otherwise use) user input on submit
+- create functional web forms to display or store user input on submit
 
 ## 4. General
 
