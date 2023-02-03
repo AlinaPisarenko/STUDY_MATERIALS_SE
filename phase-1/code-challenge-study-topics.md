@@ -12,7 +12,6 @@ To pass the code challenge, you must be able to demonstrate that you can add fun
 ## 2. Communicating with the server
 
 - retrieve items from a database with a fetch GET request and display them on the page (using the json-server node package)
-- access data according to RESTful principles (e.g. "/items")
 
 ## 3. Event Listeners
 
